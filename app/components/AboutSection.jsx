@@ -20,7 +20,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>L. Soldier's Sr. Sec. School, Merta, Dabok, Udaipur, Raj., India</li>
+        <li>L. Soldier&apos;s Sr. Sec. School, Merta, Dabok, Udaipur, Raj., India</li>
         <li>Sir Padampat Singhania University, Bhtewar, Udaipur, Raj., India</li>
       </ul>
     ),
